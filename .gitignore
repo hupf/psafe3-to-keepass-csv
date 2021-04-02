@@ -2,3 +2,5 @@
 __pycache__
 *.psafe3
 *.csv
+!test.psafe3
+!test.csv
